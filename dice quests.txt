@@ -1,0 +1,79 @@
+Initial
+- what do you hope to achieve?
+Facebook
+Instagram
+
+Quests
+- image verification?
+- promote game to friend/social media
+- post a message bashing a person
+- send anonymous message - qr
+- tracking/coronavirus
+- revenge
+- run a mile
+- drink more water
+- sleep
+- make friends
+- have post get likes
+games (for gambling)
+- voting rps
+- tragedy of the commons
+- donation game (group of people must together pass some threshold of donating money to get a reward, however there is incentive for the person who donated the least amount of money)
+- liar game
+- asobi asobase
+- kakegurui
+- no game no life
+- nim
+- lift finger and say number of fingers up
+- doubt manga
+- betting on who wins
+tournament (embedded games or publicly listed results)
+- various game tournament
+- war
+- capture the flag
+- solve the puzzle
+
+gamemaster screen X
+
+time stop, teleport, telekenesis, flight, clairevoiyance, invisibility
+
+what can dice buy - contracts have process fee
+if (confirm/confirm button) then dice transfer
+1. dice fine (2x)
+2. public shaming/violation listed with name
+3. ban account
+if (person win) then dice transfer
+
+dice improve
+- luck (initial luck based on preliminary dice roll)
+- double quest rewards in time frame
+- make quests easier in time frame (for same rewards, elongated time or just simpler request)
+
+bad
+- cheating
+
+what happens when debt
+- account ban in a few days
+
+NAVIGATION BAR
+ME
+- stats (dice collected over time, quests completed, current rank)
+- A-ranker dice collected (complete A-ranker quest)
+- dice exchange trail
+- current contracts
+SHOP
+- more friends
+- more quests
+- more time
+- easier quests
+FRIENDS
+- list of friends, group chats, when you click into friend goes into chat
+- add friend
+EARN DICE
+- quests everyday 3
+- dice exchange (contract, gamble, bet)
+FORUM
+- sns (post text, sorted by time)
+
+Database
+user,password,dice obtained (overall), unrolled dice, dice points

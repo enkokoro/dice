@@ -1,0 +1,28 @@
+Voting Rock Paper Scissor
+
+Roles
+- Player (2)
+- Voter (num < SPECIAL_NUM   ==> votes randomly generated)
+
+Flow
+0. players connect to server instance (host user)
+1. setup
+  a. host sets up game (number of rounds, players change between rounds, random or set role selection, voting stage time limit, rps stage time limit)
+  b. if random role selection: each player decide between player or voter (if more than 2 select player --> randomly pick two players out of players if less than 2 select player --> randomly pick two players)
+2. voting stage
+  a. voters select rps during time limit, if not selected in time period, select randomly
+  b. players can place their bets have voting in progress screen
+3. rps stage
+  a. voters only see card that players select
+  b. players get 3 cards each, select which card they want to play
+4. result page
+  a. displays who won and what cards they got
+  b. report cheating
+
+Pages
+- landing page
+- host create game page
+- voting page
+- rps page
+- result page
+
